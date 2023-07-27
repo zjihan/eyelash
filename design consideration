@@ -1,5 +1,19 @@
 1. MOBILITY 
+Ackermann Drive for front steering
+- Prevent the wheels from slipping sideways when moving in a curve
+- While Ackermann Drive results in slower turning, it has higher precision as compared to an all-wheel or two-wheel drive.
+- Does not cause unnecessary pauses when turning
 
+Differential Drive for back wheels
+- Wheels move independently and can move at different speeds
+- Prevents wheel slipping when moving and turning
+  - The outer wheel is able to travel a greater distance compared to the inner wheel when making a turn
+- If both wheels are controlled by independent motors, the drive would be more difficult to control
+
+Ackermann Drive vs Differential Drive
+- Differential drive allows the robot to turn as each wheel can move at varying speeds
+- Ackermann steering uses a linkage mechanism to steer the two front wheels, allowing the robot to turn smoothly and maintain a constant speed
+ 
 2. POWER AND SENSE 
 
 3. OBSTACLES
