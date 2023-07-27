@@ -1,0 +1,34 @@
+challenge 1: complete three laps, no traffic cones with random placements on the track 
+map is 300 * 300 
+
+initial distance away from wall = front us reading 
+while true
+  return ultrasonic reading
+  distance_from_wall = front us reading 
+
+first stretch()
+  while distance_from_wall > 40
+    robot move forward
+
+last stretch() 
+  while distance_from wall > initial distance away from wall 
+    robot move forward 
+
+middle stretches()
+  move for 220 cm 
+  turn 90 degrees 
+    
+if left us < right us 
+  robot left wall 
+else 
+  robot right wall 
+
+first stretch()
+
+if robot left wall turn right 
+else turn left 
+
+for i in 11
+  middle stretches()
+
+last stretch() 
